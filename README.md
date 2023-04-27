@@ -1,1 +1,1 @@
-# sunny-side-agency
+# sunnyside-agency
